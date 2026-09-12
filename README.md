@@ -12,6 +12,14 @@ A complete, production-ready Android application built with **Kotlin**, **Jetpac
 
 ---
 
+## Screenshots
+
+| Login Screen | Main Dashboard | Navigation Drawer |
+| :---: | :---: | :---: |
+| <img src="docs/images/login_screen.jpg" width="260" alt="Login Screen" /> | <img src="docs/images/dashboard_screen.jpg" width="260" alt="Dashboard Screen" /> | <img src="docs/images/drawer_menu.jpg" width="260" alt="Navigation Drawer" /> |
+
+---
+
 ## Key Highlights
 
 * **Modern Credential Manager**: Uses `androidx.credentials.CredentialManager` and `com.google.android.libraries.identity.googleid:googleid`—replacing deprecated legacy `GoogleSignInClient` with passkey and biometrics readiness.
