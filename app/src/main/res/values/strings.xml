@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ModernAuthApp</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="welcome_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in with your Google account to access your personalized workspace.</string>
+    <string name="logout">Log Out</string>
+    <string name="home">Home</string>
+    <string name="analytics">Analytics</string>
+    <string name="explore">Explore</string>
+    <string name="settings">Settings</string>
+</resources>
